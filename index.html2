@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Myfirstpage</title>
+</head>
+
+
+<body style="background-color:rgb(119, 122, 172);">  <!-- Arka plan rengi -->
+    <a name="sayfabası"></a>                         <!-- Sayfa başına dönebilmek için tag -->
+    
+<h1  style=" text-align:center;"> Hilal ULUCA</h1> <hr>     <!-- Başlık metninin konumu -->
+
+<h4 style="text-align:center;">                          <!-- Alt başlıkların konumu -->
+    <a href="#bilgi1"> Hakkımda </a> &nbsp;              <!-- Başlıklar linklendi ve anlaşılır olması için boşluk eklendi-->
+    <a href="#bilgi2"> Hobilerim </a> &nbsp;
+    <a href="#bilgi3"> Sevdiğim Filmler </a>&nbsp;
+    <a href="#bilgi4"> Sevdiğim Diziler </a> &nbsp;
+    <a href="#bilgi5"> Sevdiğim Kitaplar </a> &nbsp;
+</h4>
+
+
+<h3 id="bilgi1"> 
+&nbsp;&nbsp;&nbsp; Hakkımda 
+</h3> <!-- Yeni başlık -->
+ 
+<p> <!-- Başlık alt metin -->
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <!-- Paragraf başı için boşluk -->  
+   Merhaba, kendimi tanıtayım; ben meraklı, aktif olmayı seven bir kişi olan Hilal Uluca. 
+   22 yaşındayım, bilgisayar programcılığı bölümü öğrencisiyim. 
+   Kendimi geliştirmekten keyif alıyorum. 
+   Ve bu yaşam öyküsünün sonunda, birçok şeyle birlikte başarılı da bir mühendis olabilmiş biri haline gelmeyi planlıyorum.     
+</p> <!-- Hakkında paragraf metni -->
+
+<br>
+<hr>
+
+<h3 id="bilgi2">  
+&nbsp;&nbsp;&nbsp; Hobilerim 
+</h3> <!-- Yeni başlık -->
+
+<ol>
+<li> Film izlemek <!-- Alt başlık -->
+
+<ul>
+    <li> Je ne suis pas un homme facile  </li>
+    <li> Superintelligence </li>
+    <li> Norbit</li>
+</ul> 
+
+<br>
+
+<li> Dizi izlemek  <!-- Alt başlık -->
+      
+<ul>
+    <li> Resident Alien </li>
+    <li> Dark </li>
+    <li> Rick and Morty </li>
+</ul>
+
+<br>
+
+  <li> Kitap okumak <!-- Alt başlık -->
+      
+<ul> <!-- Linklerleyerek listeledim -->
+    <li> Putların Alacakaranlığı </li>
+    <li> <a href="https://www.goodreads.com/book/show/758901.Tutunamayanlar"> Tutunamayanlar </a> </li>
+    <li> <a href="https://www.goodreads.com/book/show/60111545-paradox">  Paradoks </a></li>
+</ul>
+</ol>
+
+<hr>
+<br>
+
+<h2 id="bilgi3"> 
+&nbsp;&nbsp;&nbsp;Sevdiğim Filmler
+</h2> <!-- Yeni başlık -->
+
+<h4> 
+&nbsp;&nbsp;&nbsp; Je ne suis pas un homme facile </h4> <!-- Alt başlık -->
+
+<img src="C:\Users\ibrya\Desktop\i.webp" alt=" Örnek görsel" width="500">
+
+<p> <!-- Alt metin -->
+&nbsp; &nbsp;&nbsp;
+Utanmaz bir şovenist olan Damien, hayatını kadınları kandırarak geçirir.
+O, iltifatlarla, türlü oyun ve yalanlarla kadınları elde etmeye çalışır. 
+Fakat bir gün işler tersine döner. Damien, bir sabah kadınların egemen olduğu bir dünyaya uyanır. 
+Burada güçlü bir yazarla tanışan Damien, kendi silahıyla vurulacaktır.
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;<a href="https://www.imdb.com/title/tt6857988/"> Filmin IMBD'sini görüntülemek için tıklayınız </a>
+
+</p>
+    
+<br>
+<h4>
+&nbsp;&nbsp;&nbsp; Superintelligence </h4>  <!-- Alt başlık -->
+    
+<img src="C:\Users\ibrya\Desktop\i (1).webp" alt=" Örnek görsel " width="500" >
+
+<p> <!-- Alt metin -->
+&nbsp;&nbsp;&nbsp;
+Carol Peters, kurumsal bir firmada yöneticidir hayatından pek mennun olmayan geriye dönüp baktığında keşkeleri olan bir kadındır.
+Sürekli olarak yakındığı bu durum günün birinde son bulacaktır.
+Dünyada büyük bir yankı uyandıracak olan bir yapay zeka üretilmiştir ve bunu gözlemlemesi için ise Carol seçilmiştir.
+Artık bambaşka bir hayatı olacaktır. 
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;<a href="https://www.imdb.com/title/tt7178640/"> Filmin IMBD'sini görüntülemek için tıklayınız </a>
+</p>
+      
+<br>
+<h4>
+&nbsp;&nbsp;&nbsp; Norbit 
+</h4> <!-- Alt başlık -->
+
+<img src="C:\Users\ibrya\Desktop\t1j86UOYSTu8SJasKHprxV2kFeX.jpg" alt=" Örnek görsel " width="500">
+
+<p> <!-- Alt metin -->
+&nbsp;&nbsp;&nbsp;
+Hafif pısırık ve ezik, ancak iyi niyetli bir adam olan Norbit (Eddie Murphy), bütün gençlik hayatı boyunca başkaları tarafından dışlanmıştır.
+Onu tartaklayan herkese karşı yıllarca korumuş dominant karısı Rasputia ise tüm zamanını kendisine ayırmasını istemektedir. 
+Bir gün, yetimhane yıllarında aşık olduğu Kate (Thandie Newton) yaşadığı şehre geri döner ancak o da Deion Hughes (Cuba Gooding Jr.) ile nişanlıdır. 
+Yine de Norbit, Kate'le yeniden biraraya gelebilmek için gereken her şeyi yapacaktır.
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;<a href="https://www.imdb.com/title/tt0477051/"> Filmin IMBD'sini görüntülemek için tıklayınız </a>
+</p>
+
+<br>
+
+<h2 id="bilgi4"> 
+&nbsp;&nbsp;&nbsp;Sevdiğim Diziler <!-- Yeni başlık -->
+</h2> 
+
+<h4>
+&nbsp;&nbsp;&nbsp; Resident Alien <!-- Alt başlık -->
+</h4> 
+
+<img src="C:\Users\ibrya\Desktop\Resident-Alien-Dizi-Konusu-Yorumu-ve-Incelemesi.webp" alt=" Harry Vanderspeigle" width="500";>
+
+<p> <!-- Alt metin -->
+&nbsp; &nbsp;&nbsp;
+Dünyayı yok etmek gibi oldukça iç karartıcı bir hedefi olan uzaylı (Alan Tudyk) uçağının arızalanmasıyla yeryüzüne düşer. 
+Görevini tamamlayamamanın korkusuyla ne yapacağını bilemez. 
+Ve küçük bir kasabanın doktoru olan Harry Vanderspeigle’ın yerini geçer.
+Öldürüp yerine geçtiği adamın hayatını yaşamak zorunda olduğunun bilincindedir.
+<br>
+<br>
+&nbsp;&nbsp;&nbsp; <a href="https://www.imdb.com/title/tt8690918/"> Dizinin IMDB'sini görüntülemek için tıklayınız. </a>
+</p>
+    
+
+<br>
+<h4>
+&nbsp;&nbsp;&nbsp; Dark 
+</h4>  <!-- Alt başlık -->
+    
+<img src="C:\Users\ibrya\Desktop\i (2).webp" alt=" örnek görsel" width="500";>
+
+<p> <!-- Alt metin -->
+&nbsp;&nbsp;&nbsp;
+Almanya'nın Winden kasabasının çocuklarının ortadan kaybolmaya başlamasıyla bölgede yaşayan dört ailenin kopuk ilişkileri, çifte yaşamları ve karanlık geçmişleri gün yüzüne çıkmış ve üç nesli kapsayan bir gizem gözler önüne serilmiştir.
+Ana karakterler arasında babasının intiharını atlatmaya çalışan genç Jonas Kahnwald, erkek kardeşi 33 yıl önce ortadan kaybolan polis memuru Ulrich Nielsen ve emniyet amiri Charlotte Doppler yer almaktadır.
+2019'da başlayan hikâye, dizideki ana ailelerden belirli kişilerin nüfuz sahibi Tiedemann ailesinin bölgede işlettiği nükleer enerji santralinin altından geçen mağara sisteminde bulunan bir solucan deliğinin varlığından yavaşça haberdar olmasıyla dizinin hikâyesi zamanda yolculuk ile kısa sürede 1986 ve 1953'ten de olaylar içermeye başlar.
+<br>
+<br>
+&nbsp;&nbsp;&nbsp; <a href="https://www.imdb.com/title/tt5753856/"> Dizinin IMDB'sini görüntülemek için tıklayınız. </a>
+</p>
+      
+
+<br>
+<h4>
+&nbsp;&nbsp;&nbsp; Rick and Morty 
+</h4> <!-- Alt başlık -->
+
+<img src="C:\Users\ibrya\Desktop\585445ba61224add9f915515af349107.jpeg" alt=" örnek görsel" width="500";>
+
+<p> <!-- Alt metin -->
+&nbsp;&nbsp;&nbsp;
+Süper bir bilim adamının ve o kadar da parlak olmayan torununun faydalarını takip eden animasyonlu bir seri.
+Kısa vadede, dizi, çatlak bir bilim adamı tarafından kovalanan torunu Morty ile maceralı bir macera.
+<br>
+<br>
+&nbsp;&nbsp;&nbsp; <a href="https://www.imdb.com/title/tt2861424/"> Dizinin IMDB'sini görüntülemek için tıklayınız. </a>
+</p>
+
+<br>
+
+
+<h2 id="bilgi5"> 
+&nbsp;&nbsp;&nbsp; Sevdiğim Kitaplar 
+</h2> <!-- Yeni başlık -->
+
+<h4> 
+&nbsp;&nbsp;&nbsp;&nbsp; Putların Alacakaranlığı 
+</h4> <!-- Alt başlık -->
+
+<img src="C:\Users\ibrya\Desktop\9789758722990.jpg" alt=" örnek görsel" width="500" height="500">
+
+<p> <!-- Alt metin -->
+&nbsp;&nbsp;&nbsp;
+Geleneksel din, ahlak ve felsefe anlayışlarını kendine özgü yoğun ve çarpıcı bir dille eleştiren Nietzsche, “Putların Alacakaranlığı” adlı eserinde insanı kavrayışı Apolloncu ve Dionysosçu karşıt-kavramlar ile ayırt ederken Sokrates’ten Kant’a kadar pek çok ünlü düşünürü çöküş-tipleri olarak nitelendirir. 
+Bu eser Nietzsche’nin Hasan Âli Yücel Klasikler Dizisi’nde bütün eserleri bağlamında yayımlanan üçüncü kitabıdır.
+</p>
+    
+
+<h4> 
+&nbsp;&nbsp;&nbsp;&nbsp; Tutunamayanlar 
+</h4>  <!-- Alt başlık -->
+    
+<img src="C:\Users\ibrya\Desktop\i (3).webp" alt=" örnek görsel" width="500" height="500">
+
+<p> <!-- Alt metin -->
+&nbsp;&nbsp;&nbsp;
+Turgut Özben adındaki genç bir mühendis, yakın arkadaşı Selim Işık’ın intihar ettiğini gazeteden öğrenir.
+Bu intiharın sebebini araştırmak için Selim’in arkadaşları (Süleyman Kargı, Esat, Metin) ve sevgilisi (Günseli) ile görüşmeler yapar.
+Yaptığı araştırmalar sonucunda Selim’in hayatının karanlıkta kalan yönlerini, onu intihara sürükleyen sebepleri öğrenir.
+</p>
+      
+
+<h4>
+&nbsp;&nbsp;&nbsp;&nbsp; Paradoks 
+</h4> <!-- Alt başlık -->
+
+<img src="C:\Users\ibrya\Desktop\9599296274482.jpg" alt=" örnek görsel" width="500" height="500">
+
+<p> <!-- Alt metin -->
+&nbsp;&nbsp;&nbsp;
+Bilim insanları zaman zaman aklın sınırlarını zorlayan sorular ortaya atarlar.
+Bir kedi aynı zamanda nasıl hem ölü hem de diri olabilir, neden Aşil ne kadar hızlı koşarsa koşsun bir tosbağayı geçemiyor, bir insan nasıl ikizinden on yıl daha yaşlı olabilir?
+Bilimin iletişimine yaptığı katkılardan dolayı İngiliz Kraliyet Akademisi tarafından madalyalandırılan Profesör Al-Khalili, bizleri adeta paradoksları yaratanların beynine sokacak kadar anlaşılır ve hünerli anlatımıyla, eğer doğru açıdan bakmayı başarırsak bu paradoksların çözülebileceğini gösteriyor. 
+Bunu yaparken de Einstein'in zaman ve evren teorilerinden, kuantum dünyasından çıkma yepyeni fikirlere kadar insanın bilgi dağarcığına girmiş en önemli kuramlardan faydalanıyor. 
+PARADOKS aklınızı fazlasıyla zorlayacak bir kitap... ama bundan çok zevk alacaksınız
+</p>
+
+<br>
+
+
+<a href="#sayfabası"> Sayfa başına dön. </a>  <!-- Sayfa başı linki -->
+                                            
+<!-- Bitti :) -->
+</body>
+</html>
